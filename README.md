@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ikennaezef/ip-tracker/)
-- Live Site URL: [Add live site URL here](https://ikennaezef.github.io/ip-tracker)
+- Solution URL: [Code on GitHub](https://github.com/ikennaezef/ip-tracker/)
+- Live Site URL: [Demo](https://ip-addy-tracker.netlify.app/)
 
 ## My process
 
